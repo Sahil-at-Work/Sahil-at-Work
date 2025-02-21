@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm ***Sahil Sawant***, 
 a _physics enthusiast and freelance developer_ 
-specializing in **DATA analysis and WEB solutions**.
+specializing in **DATA analysis and WEB solutions**
 
 ### 💡 Passionate about explaining complex physics concepts in an accessible way.  
 I'm building a collection of resources and tutorials to help others understand the fascinating world of physics.
